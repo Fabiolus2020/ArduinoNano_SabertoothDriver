@@ -1,7 +1,7 @@
 //created by Fabiolus 2021/01/08
 //the_fabiolous@hotmail.com
 
-# ArduinoNano_SabertoothDriver
+# ArduinoNano_SabertoothDriver using servo library
 Arduino Nano and Sabertooth driver version 2
 
 Youtube:
@@ -9,6 +9,7 @@ https://youtu.be/ejlvw2Omj_Q
 
 Project#5
 
+servo library
 1 x Arduino Nano
 2 x led 
 2 resistor 1kOhms
